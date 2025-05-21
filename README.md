@@ -82,8 +82,8 @@ This kind of predictive model can help:
 
 ##  Kaggle Notebook Links
 
-- [Decision Trees - Accuracy & Feature Selection](https://www.kaggle.com/code/goker67/decision-trees-acc-metrics-feature-selection)  
-- [GPU-based ML with cuml, polars, and cupy](https://www.kaggle.com/code/goker67/everything-on-gpu-ml-with-cuml-polars-cupy)
+-Project: https://www.kaggle.com/code/yusuferenaykurt/football-project
+-DataSet https://www.kaggle.com/datasets/ktyptorio/football-manager-2020
 
 ---
 
